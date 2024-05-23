@@ -1,17 +1,18 @@
 # 🔗 Project Title
 Online Food Restaurant Website
+
 # 🔗 Project Description
 An online platform for users to browse menus, place orders, and get food delivered from a variety of restaurants. The website simplifies the food ordering process with a user-friendly interface.
 
 ## 🖥️ Tech Stack
 **Frontend:**
 
-![HTML5](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-<h2>📬 Contact</h2>
+## 📬 Contact
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
