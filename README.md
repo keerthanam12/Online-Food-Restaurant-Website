@@ -1,8 +1,10 @@
 # 🔗 Project Title
 Online Food Restaurant Website
 
+
 # 🔗 Project Description
 An online platform for users to browse menus, place orders, and get food delivered from a variety of restaurants. The website simplifies the food ordering process with a user-friendly interface.
+
 
 ## 🖥️ Tech Stack
 **Frontend:**
