@@ -19,6 +19,7 @@ An online platform for users to browse menus, place orders, and get food deliver
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
 ## 📬 Contact
 
 Feel free to reach me through the below handles if you'd like to contact me.
